@@ -11,6 +11,9 @@ One to two paragraph statement about your product and what it does.
 <!-- <img src="https://github.com/dossma/ebook-file-renaming/blob/main/header.png" width=50% height=50%> -->
 <!-- <img src="https://github.com/dossma/ebook-file-renaming/blob/main/header.png" width="150" height="280"> -->
 
+## Motivation
+
+My motivation for this is...
 
 ## Installation
 
