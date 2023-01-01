@@ -61,7 +61,7 @@ npm test
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+Author: Jonas Dossmann – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
